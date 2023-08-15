@@ -1,0 +1,3 @@
+[[NoSchedule]]
+[[PreferNoSchedule]]
+[[NoExecute]]

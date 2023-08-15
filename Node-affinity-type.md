@@ -1,0 +1,2 @@
+[[requiredDuringSchedulingIgnoredDuringExecution]]:  The scheduler can't schedule the Pod unless the rule is met. 
+[[preferredDuringSchedulingIgnoredDuringExecution]]:  The scheduler tries to find a node that meets the rule. 
