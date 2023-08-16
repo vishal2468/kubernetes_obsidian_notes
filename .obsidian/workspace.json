@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "dfd3803fee7beeeb",
+        "id": "c1c9be78b79f65d8",
         "type": "tabs",
         "children": [
           {
-            "id": "2769132df75e6173",
+            "id": "cbd2e3ca5846e55f",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "resource",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,8 +121,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -138,8 +137,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2769132df75e6173",
+  "active": "cbd2e3ca5846e55f",
   "lastOpenFiles": [
+    "pod.md",
+    "Kubernetes.md",
+    "staticpods.md",
+    "Pods.md",
+    "control-plane.md",
+    "etcd.md",
+    "apiserver.md",
+    "Controller-manager.md",
+    "API server.md",
+    "kubelet.md",
+    "kubectl.md",
+    "daemonset.md",
+    "deployments.md",
+    "defination-file.md",
+    "limit.md",
+    "request.md",
+    "spec.md",
+    "selectors.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "tainteffect.md",
@@ -147,26 +164,9 @@
     "Node-affinity.md",
     "taint.md",
     "Node-affinity types.md",
-    "Kubernetes.md",
-    "selectors.md",
     "nodes.md",
     "node.md",
     "label.md",
-    "labels.md",
-    "spec.md",
-    "kubectl.md",
-    "image.md",
-    "get.md",
-    "Docker.md",
-    "tolerations.md",
-    "Pods.md",
-    "replicaset.md",
-    "services.md",
-    "taints.md",
-    "create.md",
-    "defination-file.md",
-    "2023-08-15.md",
-    "namespace.md",
     "Devops"
   ]
 }

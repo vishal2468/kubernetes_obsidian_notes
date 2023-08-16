@@ -6,7 +6,7 @@
 
 [[services]] is a method for exposing a network application that is running as one or more Pods in your cluster.
 
-[[namespace]] provides a mechanism for isolating groups of resources within a single cluster.
+[[namespace]] provides a mechanism for isolating groups of object within a single cluster.
 
 [[label]]  are key/value pairs that are attached to objects such as Pods
 
@@ -16,6 +16,8 @@
 
 [[Node-affinity]] set of rules used by the scheduler to determine where a pod can be placed
 
-68
+[[request]] and [[limit]] The kubelet also reserves at least the _request_amount of that system resource specifically for that container to use. A [[container]] is not allowed to use more than its resource `limit`.
 
+[[daemonset]] ensures that all (or some) Nodes run a copy of a Pod.
 
+[[staticpods]]  are managed directly by the [[kubelet]] daemon on a specific node, without the [[API server]] observing them

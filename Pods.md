@@ -12,6 +12,10 @@ Get pods in a [[namespace]]
 	[[kubectl]] get pods --namespace <namespace-name>
 Get all pods in all [[namespace]]
 	[[kubectl]] get pods -A
+Edit a pod
+	[[kubectl]] edit pod <pod-name>
 Scheduling 
 	Mannual
 	Through Schedulers
+Run command on a pod at startup
+	[[kubectl]] run --image=busybox static-busybox --command -- sleep 1000
