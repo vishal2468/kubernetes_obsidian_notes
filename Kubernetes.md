@@ -21,3 +21,6 @@
 [[daemonset]] ensures that all (or some) Nodes run a copy of a Pod.
 
 [[staticpods]]  are managed directly by the [[kubelet]] daemon on a specific node, without the [[API server]] observing them
+
+[[Schedulers]] is a control plane process which assigns Pods to Nodes. 
+84

@@ -11,8 +11,12 @@
             "id": "cbd2e3ca5846e55f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kubernetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Kubernetes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Kubernetes.md"
+              }
             }
           }
         ]
@@ -139,10 +147,11 @@
   },
   "active": "cbd2e3ca5846e55f",
   "lastOpenFiles": [
-    "pod.md",
+    "Schedulers.md",
     "Kubernetes.md",
-    "staticpods.md",
     "Pods.md",
+    "staticpods.md",
+    "pod.md",
     "control-plane.md",
     "etcd.md",
     "apiserver.md",
@@ -166,7 +175,6 @@
     "Node-affinity types.md",
     "nodes.md",
     "node.md",
-    "label.md",
     "Devops"
   ]
 }
