@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c1c9be78b79f65d8",
+        "id": "da823fa62db674cf",
         "type": "tabs",
         "children": [
           {
-            "id": "cbd2e3ca5846e55f",
+            "id": "c1801172fad24b5b",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "64d9dbfa1a7500ab",
+            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Kubernetes.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,10 +158,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cbd2e3ca5846e55f",
+  "active": "64d9dbfa1a7500ab",
   "lastOpenFiles": [
-    "Schedulers.md",
+    "logs.md",
+    "cAdvisor.md",
+    "services.md",
     "Kubernetes.md",
+    "logging and monitoring.md",
+    "Metrics server.md",
+    "kubelet.md",
+    "matrics server.md",
+    "request.md",
+    "deployments.md",
+    "Schedulers.md",
     "Pods.md",
     "staticpods.md",
     "pod.md",
@@ -157,24 +179,15 @@
     "apiserver.md",
     "Controller-manager.md",
     "API server.md",
-    "kubelet.md",
     "kubectl.md",
     "daemonset.md",
-    "deployments.md",
     "defination-file.md",
     "limit.md",
-    "request.md",
     "spec.md",
     "selectors.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "tainteffect.md",
-    "Node-affinity-type.md",
-    "Node-affinity.md",
-    "taint.md",
-    "Node-affinity types.md",
-    "nodes.md",
-    "node.md",
     "Devops"
   ]
 }
