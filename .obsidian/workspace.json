@@ -128,7 +128,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -142,7 +142,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -160,34 +161,34 @@
   },
   "active": "64d9dbfa1a7500ab",
   "lastOpenFiles": [
-    "rollback.md",
-    "Kubernetes.md",
-    "envFrom.md",
+    "Secret.md",
     "ConfigMap.md",
+    "enviornment variables.md",
+    "Kubernetes.md",
+    "Schedulers.md",
+    "taint.md",
+    "envFrom.md",
+    "Untitled.canvas",
+    "Pods.md",
+    "Metrics server.md",
+    "daemonset.md",
+    "kubectl.md",
+    "deployments.md",
+    "replicaset.md",
+    "staticpods.md",
+    "rollback.md",
     "env.md",
     "configmaps.md",
-    "enviornment variables.md",
-    "Pods.md",
     "commands.md",
     "arguments.md",
     "container.md",
     "rollingUpdates.md",
-    "deployments.md",
     "defination-file.md",
     "rolling-updates.md",
     "logs.md",
     "cAdvisor.md",
     "services.md",
-    "logging and monitoring.md",
-    "Metrics server.md",
-    "kubelet.md",
-    "matrics server.md",
-    "request.md",
-    "Schedulers.md",
-    "staticpods.md",
-    "pod.md",
     "Untitled 1.canvas",
-    "Untitled.canvas",
     "Devops"
   ]
 }
