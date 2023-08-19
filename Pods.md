@@ -19,6 +19,5 @@ Scheduling
 	Through [[Schedulers]]
 Run command on a pod at startup
 	[[kubectl]] run --image=busybox static-busybox --command -- sleep 1000
-set [[enviornment variables]] 
 
 

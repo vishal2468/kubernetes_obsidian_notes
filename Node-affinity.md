@@ -1,4 +1,4 @@
-nodes with [[Label]] are required for matching 
+allowing you to constrain which [[node]] your [[Pods]] can be scheduled on based on node [[label]]
 
 define affinity under [[spec]]
 ```yaml

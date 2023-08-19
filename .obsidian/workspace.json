@@ -32,27 +32,19 @@
             }
           },
           {
-            "id": "9bb3c2595eec4333",
+            "id": "7ce3b1953ed464f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kubectl.md",
+                "file": "node.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "67c0b8a36e79a18f",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "resource",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes.md",
+                "file": "node.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes.md",
+                "file": "node.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,12 +150,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes.md"
+                "file": "node.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,17 +170,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64d9dbfa1a7500ab",
+  "active": "7ce3b1953ed464f6",
   "lastOpenFiles": [
+    "Kubernetes.md",
+    "pod.md",
+    "Schedulers.md",
+    "cordon.md",
+    "drain.md",
+    "staticpods.md",
+    "Controller-manager.md",
+    "uncordon.md",
+    "node.md",
+    "Node-affinity.md",
+    "label.md",
+    "selectors.md",
+    "Pods.md",
+    "kubectl.md",
+    "env.md",
+    "enviornment variables.md",
     "init-containers.md",
     "container.md",
-    "Kubernetes.md",
-    "kubectl.md",
-    "Pods.md",
     "Secret.md",
     "ConfigMap.md",
-    "enviornment variables.md",
-    "Schedulers.md",
     "taint.md",
     "envFrom.md",
     "Untitled.canvas",
@@ -197,17 +199,6 @@
     "daemonset.md",
     "deployments.md",
     "replicaset.md",
-    "staticpods.md",
-    "rollback.md",
-    "env.md",
-    "configmaps.md",
-    "commands.md",
-    "arguments.md",
-    "rollingUpdates.md",
-    "defination-file.md",
-    "rolling-updates.md",
-    "logs.md",
-    "cAdvisor.md",
     "Untitled 1.canvas",
     "Devops"
   ]

@@ -1,6 +1,5 @@
-To set environment variables, include the [[env]] or [[envFrom]] field in the configuration file.
 
-	[[env]] allows you to set environment variables for a container, specifying a value directly for each variable that you name.
+	[[env]] allows you to set environment variables for a [[container]], specifying a value directly for each variable that you name.
 
 	[[envFrom]] allows you to set environment variables for a container by referencing either a [[ConfigMap]] or a [[Secret]].
 
