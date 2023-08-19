@@ -30,6 +30,26 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "9bb3c2595eec4333",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kubectl.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67c0b8a36e79a18f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -161,18 +181,20 @@
   },
   "active": "64d9dbfa1a7500ab",
   "lastOpenFiles": [
+    "init-containers.md",
+    "container.md",
+    "Kubernetes.md",
+    "kubectl.md",
+    "Pods.md",
     "Secret.md",
     "ConfigMap.md",
     "enviornment variables.md",
-    "Kubernetes.md",
     "Schedulers.md",
     "taint.md",
     "envFrom.md",
     "Untitled.canvas",
-    "Pods.md",
     "Metrics server.md",
     "daemonset.md",
-    "kubectl.md",
     "deployments.md",
     "replicaset.md",
     "staticpods.md",
@@ -181,13 +203,11 @@
     "configmaps.md",
     "commands.md",
     "arguments.md",
-    "container.md",
     "rollingUpdates.md",
     "defination-file.md",
     "rolling-updates.md",
     "logs.md",
     "cAdvisor.md",
-    "services.md",
     "Untitled 1.canvas",
     "Devops"
   ]
