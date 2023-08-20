@@ -32,12 +32,24 @@
             }
           },
           {
-            "id": "7ce3b1953ed464f6",
+            "id": "e74227494dbbaca3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "node.md",
+                "file": "Backup and restore.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c0c1a83c2ea36de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kubectl.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "node.md",
+                "file": "Backup and restore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "node.md",
+                "file": "Backup and restore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "node.md"
+                "file": "Backup and restore.md"
               }
             }
           }
@@ -170,9 +182,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ce3b1953ed464f6",
+  "active": "e74227494dbbaca3",
   "lastOpenFiles": [
+    "kubectl.md",
+    "Backup and restore.md",
     "Kubernetes.md",
+    "node.md",
+    "API server.md",
+    "apiserver.md",
+    "kubeadm.md",
     "pod.md",
     "Schedulers.md",
     "cordon.md",
@@ -180,12 +198,10 @@
     "staticpods.md",
     "Controller-manager.md",
     "uncordon.md",
-    "node.md",
     "Node-affinity.md",
     "label.md",
     "selectors.md",
     "Pods.md",
-    "kubectl.md",
     "env.md",
     "enviornment variables.md",
     "init-containers.md",
@@ -195,10 +211,6 @@
     "taint.md",
     "envFrom.md",
     "Untitled.canvas",
-    "Metrics server.md",
-    "daemonset.md",
-    "deployments.md",
-    "replicaset.md",
     "Untitled 1.canvas",
     "Devops"
   ]
