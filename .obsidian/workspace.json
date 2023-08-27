@@ -30,6 +30,30 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "cfc3c8b30f95e84a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9aa97b14a5186a5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CertificateSigningRequest.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -160,14 +184,15 @@
   },
   "active": "64d9dbfa1a7500ab",
   "lastOpenFiles": [
-    "Files - Username and Passwords.md",
-    "kube-apiserver.service.md",
+    "CertificateSigningRequest.md",
     "Kubernetes.md",
-    "kube-apiserver.md",
-    "Files - Username and Tokens.md",
+    "Security.md",
     "TLS Certificates.md",
     "Authentication.md",
-    "Security.md",
+    "Files - Username and Passwords.md",
+    "kube-apiserver.service.md",
+    "kube-apiserver.md",
+    "Files - Username and Tokens.md",
     "Service Account.md",
     "User Account.md",
     "apiserver.md",
@@ -185,7 +210,6 @@
     "Schedulers.md",
     "cordon.md",
     "drain.md",
-    "Controller-manager.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Devops"

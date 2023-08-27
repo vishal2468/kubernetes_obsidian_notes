@@ -38,4 +38,8 @@
 
 [[Backup and restore]] cluster configuration
 
-[[Security]] 
+[[Security]] It will only respond to requests that it can properly authenticate and authorize.
+
+[[CertificateSigningRequest]] resource is used to request that a certificate be signed by a denoted signer.
+
+155
