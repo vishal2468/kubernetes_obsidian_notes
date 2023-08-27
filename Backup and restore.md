@@ -1,5 +1,5 @@
 2 ways 
-- quering the [[apiserver]] for all the resource groups and backing them up.
+- quering the [[kube-apiserver]] for all the resource groups and backing them up.
 - take a snapshot of the [[etcd]] db.
 for managed k8s cluster , we may not have access to etcd and in that case the 1st method is preferred.
 
