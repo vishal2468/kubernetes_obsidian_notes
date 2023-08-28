@@ -42,4 +42,6 @@
 
 [[CertificateSigningRequest]] resource is used to request that a certificate be signed by a denoted signer.
 
-155
+[[KubeConfig]] is used to organize information about clusters, users, namespaces, and authentication mechanisms.
+
+159
