@@ -1,5 +1,5 @@
 
-create Role using [[defination-file]]
+create [[Role]] using [[defination-file]]
 
 ```yaml
 apiVersion: rbac.authorization.k8s.io/v1
@@ -13,7 +13,7 @@ rules:
   verbs: ["get", "watch", "list"]
 ```
 
-create Role Binding using [[defination-file]]
+create [[Role Binding]] using [[defination-file]]
 
 ```yaml
 apiVersion: rbac.authorization.k8s.io/v1
@@ -51,3 +51,7 @@ can also specify the namespace
 kubectl auth can-i create deployments --as dev-user --namespace test
 ```
 
+
+[[Cluster Role]] and [[Cluster Role Binding]]
+
+- They are very similar to [[Role]] and [[Role Binding]] except that roles are spicific to a [[namespace]] where as the [[Cluster Role]] and [[Cluster Role Binding]] are irrespective of a tenant.

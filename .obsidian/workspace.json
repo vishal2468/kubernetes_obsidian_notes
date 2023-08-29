@@ -32,36 +32,12 @@
             }
           },
           {
-            "id": "0004ac74bd2b3f5f",
+            "id": "98f65ffe4fb4f6e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "RBAC Authorization.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0fbe44945a037f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "envFrom.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4af11a2642dd4956",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Authorization.md",
                 "mode": "source",
                 "source": false
               }
@@ -196,13 +172,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0004ac74bd2b3f5f",
+  "active": "98f65ffe4fb4f6e7",
   "lastOpenFiles": [
-    "Kubernetes.md",
-    "RBAC Authorization.md",
     "Authorization.md",
     "Security.md",
+    "Kubernetes.md",
+    "kubectl proxy.md",
+    "RBAC Authorization.md",
     "envFrom.md",
+    "Node Authorization.md",
     "API Groups.md",
     "kube-config.yaml.md",
     "TLS Certificates.md",
@@ -222,8 +200,6 @@
     "apiserver.md",
     "staticpods.md",
     "Backup and restore.md",
-    "API server.md",
-    "etcd.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Devops"

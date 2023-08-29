@@ -1,4 +1,4 @@
-	[[RBAC Authorization]] 
+	[[RBAC Authorization]] method of regulating access to computer or network resources based on the roles of individual users within your organization.
 	[[ABAC Authorization]] defines an access control paradigm whereby access rights are granted to users through the use of policies which combine attributes together.
 	[[Node Authorization]] is a special-purpose _authorization_ mode that specifically authorizes API requests made by kubelets.
 	[[Webhook Mode]] Authorization is taken care by some 3rd party application.
