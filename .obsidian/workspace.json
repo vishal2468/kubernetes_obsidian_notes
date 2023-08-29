@@ -30,9 +30,45 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "0004ac74bd2b3f5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RBAC Authorization.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0fbe44945a037f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "envFrom.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4af11a2642dd4956",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Authorization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "apiserve",
+                "query": "config",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,11 +135,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes.md",
+                "file": "RBAC Authorization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -115,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes.md",
+                "file": "RBAC Authorization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,11 +175,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes.md"
+                "file": "RBAC Authorization.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -158,18 +196,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64d9dbfa1a7500ab",
+  "active": "0004ac74bd2b3f5f",
   "lastOpenFiles": [
-    "KubeConfig.md",
     "Kubernetes.md",
+    "RBAC Authorization.md",
+    "Authorization.md",
     "Security.md",
+    "envFrom.md",
+    "API Groups.md",
+    "kube-config.yaml.md",
+    "TLS Certificates.md",
+    "ConfigMap.md",
+    "kube-apiserver.md",
+    "KubeConfig.md",
+    "ABAC Authorization.md",
+    "Autherization.md",
     "deployments.md",
     "CertificateSigningRequest.md",
-    "TLS Certificates.md",
     "Authentication.md",
     "Files - Username and Passwords.md",
     "kube-apiserver.service.md",
-    "kube-apiserver.md",
     "Files - Username and Tokens.md",
     "Service Account.md",
     "User Account.md",
@@ -178,14 +224,6 @@
     "Backup and restore.md",
     "API server.md",
     "etcd.md",
-    "Certificates.md",
-    "Authorization.md",
-    "kubectl.md",
-    "logs.md",
-    "node.md",
-    "kubeadm.md",
-    "pod.md",
-    "Schedulers.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Devops"
