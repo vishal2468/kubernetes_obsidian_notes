@@ -44,8 +44,10 @@
 
 [[KubeConfig]] is used to organize information about clusters, users, namespaces, and authentication mechanisms.
 
-[[API Groups]] 
+[[API Groups]] The _Kubernetes API_ is grouped into multiple such _groups_ based on their purpose.
 
 [[kubectl proxy]] HTTP proxy service created by [[kubectl]] utility to access the [[kube-apiserver]].
 
-164
+[[image]] 
+
+177

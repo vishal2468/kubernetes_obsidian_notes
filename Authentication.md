@@ -3,8 +3,8 @@
 	[[Files - Username and Passwords]]
 	[[Files - Username and Tokens]]
 	[[TLS Certificates]]
-	External Authentication Providers - LDAP
-	Service Accounts
+	[[External Authentication Providers]] - LDAP
+	[[Service Accounts]]
 
 Accounts:
 - [[User Account]] 
