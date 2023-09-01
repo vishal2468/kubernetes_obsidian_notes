@@ -38,7 +38,11 @@
 
 [[Backup and restore]] cluster configuration
 
-[[Security]] It will only respond to requests that it can properly authenticate and authorize.
+[[Authentication]] means validating the identity of who or what is issuing the request.
+
+[[Authorization]]  in Kubernetes _verifies whether a certain action (such as_ “list pods” or “create a secret”) is allowed by a certain user or application.
+
+[[SecurityContext]] defines privilege and access control settings for a Pod or Container.
 
 [[CertificateSigningRequest]] resource is used to request that a certificate be signed by a denoted signer.
 

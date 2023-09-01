@@ -1,4 +1,5 @@
-Mounting a volume in a pod
+#storage 
+Mounting a volume in a [[pods]]
 ```yaml
 apiVersion: v1
 kind: Pod

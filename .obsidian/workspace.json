@@ -30,57 +30,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "fa3d068c70ddb7bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Storage.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "48699d56fcedcc27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Volumes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "67e41ad432645608",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PersistentVolume.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b602ac0019e0ecc5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PersistentVolumeClaim.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#cluster-maintenance",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -146,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volumes.md",
+                "file": "Kubernetes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Volumes.md",
+                "file": "Kubernetes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,12 +138,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Volumes.md"
+                "file": "Kubernetes.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,34 +158,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "48699d56fcedcc27",
+  "active": "64d9dbfa1a7500ab",
   "lastOpenFiles": [
+    "Node Authorization.md",
+    "Authorization.md",
+    "Volumes.md",
     "PersistentVolume.md",
     "PersistentVolumeClaim.md",
-    "Volumes.md",
     "Kubernetes.md",
+    "pod.md",
+    "Pods.md",
+    "CSI.md",
+    "CertificateSigningRequest.md",
     "Storage.md",
+    "Security.md",
     "Authentication.md",
+    "TLS Certificates.md",
+    "Service Accounts.md",
+    "User Account.md",
+    "SecurityContext.md",
+    "Service Account.md",
     "RBAC Authorization.md",
     "Files - Username and Tokens.md",
     "Cluster Role Binding.md",
     "Cluster Role.md",
     "Role Binding.md",
     "Role.md",
-    "Authorization.md",
     "kube-apiserver.md",
-    "Node Authorization.md",
     "ABAC Authorization.md",
-    "Security.md",
-    "SecurityContext.md",
-    "selectors.md",
-    "NetworkPolicy.md",
-    "services.md",
-    "LoadBalancer.md",
-    "NodePort.md",
-    "node.md",
-    "nodes.md",
-    "ClusterIP.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Devops"
