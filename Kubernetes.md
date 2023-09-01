@@ -50,4 +50,10 @@
 
 [[NetworkPolicy]] are an application-centric construct which allow you to specify how a pod is allowed to communicate with various network "entities"  over the network.
 
-177
+[[CSI]] is a community-based project for developing a standardized API enabling communication between container orchestration (CO) platforms and storage plugins
+
+[[Volumes]] 
+
+[[PersistentVolume]] is part of the network storage within a cluster provided by the administrator.
+
+[[PersistentVolumeClaim]] is a request for storage by a user. It is similar to a Pod. Pods consume node resources and PVCs consume PV resources. 

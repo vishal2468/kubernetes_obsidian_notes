@@ -32,63 +32,55 @@
             }
           },
           {
-            "id": "9906399aff9b7c05",
+            "id": "fa3d068c70ddb7bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Authentication.md",
+                "file": "Storage.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b0e8f3f5af5bd3ad",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "91741653a3bad0b9",
+            "id": "48699d56fcedcc27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security.md",
+                "file": "Volumes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4b6895eedf793bb7",
+            "id": "67e41ad432645608",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SecurityContext.md",
+                "file": "PersistentVolume.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "308e3d440bff0c94",
+            "id": "b602ac0019e0ecc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "selectors.md",
+                "file": "PersistentVolumeClaim.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -154,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "selectors.md",
+                "file": "Volumes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "selectors.md",
+                "file": "Volumes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "selectors.md"
+                "file": "Volumes.md"
               }
             }
           }
@@ -215,34 +207,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "308e3d440bff0c94",
+  "active": "48699d56fcedcc27",
   "lastOpenFiles": [
+    "PersistentVolume.md",
+    "PersistentVolumeClaim.md",
+    "Volumes.md",
+    "Kubernetes.md",
+    "Storage.md",
+    "Authentication.md",
+    "RBAC Authorization.md",
+    "Files - Username and Tokens.md",
+    "Cluster Role Binding.md",
+    "Cluster Role.md",
+    "Role Binding.md",
+    "Role.md",
+    "Authorization.md",
+    "kube-apiserver.md",
+    "Node Authorization.md",
+    "ABAC Authorization.md",
+    "Security.md",
     "SecurityContext.md",
     "selectors.md",
     "NetworkPolicy.md",
-    "Kubernetes.md",
-    "Authentication.md",
-    "Security.md",
     "services.md",
     "LoadBalancer.md",
     "NodePort.md",
     "node.md",
     "nodes.md",
     "ClusterIP.md",
-    "limit.md",
-    "image.md",
-    "Service Accounts.md",
-    "Service Account.md",
-    "User Account.md",
-    "ABAC Authorization.md",
-    "kube-apiserver.md",
-    "Cluster Role.md",
-    "TLS Certificates.md",
-    "Authorization.md",
-    "Controller-manager.md",
-    "kube-config.yaml.md",
-    "Node Authorization.md",
-    "cAdvisor.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Devops"
