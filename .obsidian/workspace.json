@@ -74,9 +74,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "308e3d440bff0c94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "selectors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes.md",
+                "file": "selectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes.md",
+                "file": "selectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes.md"
+                "file": "selectors.md"
               }
             }
           }
@@ -203,12 +215,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64d9dbfa1a7500ab",
+  "active": "308e3d440bff0c94",
   "lastOpenFiles": [
+    "SecurityContext.md",
+    "selectors.md",
+    "NetworkPolicy.md",
+    "Kubernetes.md",
     "Authentication.md",
     "Security.md",
-    "SecurityContext.md",
-    "Kubernetes.md",
     "services.md",
     "LoadBalancer.md",
     "NodePort.md",
@@ -229,8 +243,6 @@
     "kube-config.yaml.md",
     "Node Authorization.md",
     "cAdvisor.md",
-    "Pods.md",
-    "pod.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Devops"

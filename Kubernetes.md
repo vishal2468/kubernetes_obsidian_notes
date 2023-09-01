@@ -48,6 +48,6 @@
 
 [[kubectl proxy]] HTTP proxy service created by [[kubectl]] utility to access the [[kube-apiserver]].
 
-[[image]] 
+[[NetworkPolicy]] are an application-centric construct which allow you to specify how a pod is allowed to communicate with various network "entities"  over the network.
 
 177
